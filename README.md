@@ -7,8 +7,7 @@
 <h5>✅Linkedin:<a rel="My Linkedin" href="www.linkedin.com/in/benamar-mayssa-76745820a">💼Follow me on Linkedin!</a></h5>
 <h5>📫 You can reach me by e-mail:📜 benamarmayssa7@gmail.com </h5>
 <h5>Languages:</h5>
-<h6>👍C -👌Java -✊Python-🤝HTML -CSS -👍SQL-PHP</h6>
-<h6>🫶JavaScript</h6>
+<h6>-C -Java - Python- HTML -CSS - SQL- PHP -JavaScript</h6>
 <h6>currently learning FLUTTER</h6>
 
 
