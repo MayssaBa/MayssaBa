@@ -8,7 +8,7 @@
 <h5>📫 You can reach me by e-mail:📜 benamarmayssa7@gmail.com </h5>
 <h5>Languages:</h5>
 <h6>-C -Java - Python- HTML -CSS - SQL- PHP -JavaScript</h6>
-<h6>currently learning FLUTTER</h6>
+<h6>currently learning React</h6>
 
 
 
